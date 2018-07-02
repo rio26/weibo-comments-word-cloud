@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import jieba
 
 # open the file with "read" attribute
-with open('comment-rev.txt', 'r') as f:
+with open('comment.txt', 'r') as f:
     f_text = f.read()							#read file
     res = jieba.cut(f_text)						#split chinese characters using jieba package
     res_text = ' '.join(res)					
