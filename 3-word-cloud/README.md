@@ -19,7 +19,7 @@
 
 ![image](http://github.com//rio26/weibo-comments-word-cloud/tree/master/source/j2.png)
 
-![基础模板1 (2).png](http://ata2-img.cn-hangzhou.img-pub.aliyun-inc.com/82bb195ac62532963b2364d2e4da23e5.png)
+![基础模板1 (2).png](http://github.com//rio26/weibo-comments-word-cloud/tree/master/source/j2.png)
 
 生成了这样子的词云：
 
