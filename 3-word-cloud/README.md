@@ -6,7 +6,7 @@
 例子：
 
 
-(http://github.com//rio26/weibo-comments-word-cloud/tree/master/3-word-cloud/result-from-simple-version.png)
+![image](http://github.com//rio26/weibo-comments-word-cloud/tree/master/3-word-cloud/result-from-simple-version.png)
 
 ### 2、word-cloud-v2.py
 
@@ -15,11 +15,11 @@
 
 这个会根据这张图:
 
-(http://github.com//rio26/weibo-comments-word-cloud/tree/master/3-word-cloud/j2.png)
+![image](http://github.com//rio26/weibo-comments-word-cloud/tree/master/3-word-cloud/j2.png)
 
 生成这样子的词云：
 
-(http://github.com//rio26/weibo-comments-word-cloud/tree/master/3-word-cloud/result-from-v2.png)
+![image](http://github.com//rio26/weibo-comments-word-cloud/tree/master/3-word-cloud/result-from-v2.png)
 
 
 ## 运行所需文件
