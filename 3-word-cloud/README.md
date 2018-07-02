@@ -19,8 +19,6 @@
 
 ![image](http://github.com//rio26/weibo-comments-word-cloud/tree/master/source/j2.png)
 
-![基础模板1 (2).png](http://github.com//rio26/weibo-comments-word-cloud/tree/master/source/j2.png)
-
 生成了这样子的词云：
 
 ![image](http://github.com//rio26/weibo-comments-word-cloud/tree/master/source/result-from-v2.png)
