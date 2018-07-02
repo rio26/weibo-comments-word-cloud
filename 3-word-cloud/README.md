@@ -17,7 +17,7 @@
 
 根据这张图:
 
-![image](http://github.com//rio26/weibo-comments-word-cloud/tree/master/source/j2.png)
+![image](http://github.com//rio26/weibo-comments-word-cloud/tree/master/source/j2.png “1”)
 
 生成了这样子的词云：
 
